@@ -1,0 +1,11 @@
+{
+  "name": "clear-code",
+  "version": "1.0.2",
+  "description": "remove special simbols and make any string length",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VladimirKrupin ( vladimir.krupin133@gmail.com )",
+  "license": "ISC"
+}
