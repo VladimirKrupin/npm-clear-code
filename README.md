@@ -1,6 +1,8 @@
 _it function removed extra charactes_
 **use it at**
 
+`import clear from "clear-code";`
+
 `clear(string, length, entityMap, replases)`
 
 you string

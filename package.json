@@ -1,6 +1,6 @@
 {
   "name": "clear-code",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "remove special simbols and make any string length",
   "main": " ",
   "scripts": {
